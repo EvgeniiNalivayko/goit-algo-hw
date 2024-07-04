@@ -11,4 +11,6 @@ def normalize_phone(phone_number: str) -> str:
     else:
         cleaned_number = '+38' + cleaned_number
 
+
     return cleaned_number
+
